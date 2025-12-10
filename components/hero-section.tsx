@@ -159,7 +159,7 @@ export function HeroSection() {
               {/* Portrait container with enhanced glassmorphism */}
               <div className="relative w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden glass-strong glow-primary-lg">
                 <Image
-                  src="/professional-male-lawyer-portrait-in-suit--dark-ba.jpg"
+                  src="/professional-male-lawyer-portrait-in-suit--dark-ba.jpeg"
                   alt="Maître Khalid CHAFAI - Avocat au Barreau de Tanger"
                   fill
                   className="object-cover"
